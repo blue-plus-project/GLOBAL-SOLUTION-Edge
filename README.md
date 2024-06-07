@@ -23,7 +23,7 @@ Nesta primeira versão do protótipo, foram implementados: <b>SENSOR DE TEMPERAT
 No display LCD, essas informações ficam dispostas para consulta, apresentando a média móvel das leituras do DHT (sensor utilizado para leitura de temperatura), à direita, e registro de tempo, à esquerda.
 <br><br> <img src="./assets/info.display.jpg" alt="informações do display">
 <br><br>
-No terminal, são registradas as leituras sem pré-processamento e também com o registro de tempo.
+No terminal, são registradas as leituras sem pré-processamento e também com datalogging.
 <br><br> <img src="./assets/info.terminal.jpg" alt="informações do terminal">
 
 <h2 id="simulacao">Simulação:</h2>
